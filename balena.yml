@@ -14,7 +14,7 @@ assets:
   repository:
     type: "blob.asset"
     data:
-      url: "https://github.com/klutchell/balena-nextcloud"
+      url: "https://github.com/PKHarsimran/balena-nextcloud"
   logo:
     type: "blob.asset"
     data:
