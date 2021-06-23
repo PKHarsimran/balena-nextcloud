@@ -12,7 +12,6 @@ services:
     volumes:
       - html:/var/www/html
     environment:
-      - UDEV=1
       NEXTCLOUD_TRUSTED_DOMAINS: "*.balena-devices.com"
       MYSQL_HOST: db
       MYSQL_DATABASE: nextcloud
