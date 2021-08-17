@@ -42,3 +42,5 @@ and Nextcloud. It is completely optional though, so feel free to remove it from 
 ## Contributing
 
 Please open an issue or submit a pull request with any features, fixes, or changes.
+
+This IS a Forked commit for testing mount and un mount script for usb. Thank you : https://github.com/klutchell/balena-nextcloud for the orginal balena nextcloud.
